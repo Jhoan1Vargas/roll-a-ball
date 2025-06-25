@@ -403,6 +403,8 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.1.6f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/scripts/CamaraController.cs"
 "Assets/scripts/JugadorController.cs"
+"Assets/scripts/Menuinicial.cs"
+"Assets/scripts/Movimientoobjeto.cs"
 "Assets/scripts/Rotador.cs"
 -langversion:9.0
 /deterministic
