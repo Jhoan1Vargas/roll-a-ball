@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 780.8
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Project
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -338,7 +338,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Prefabs
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -348,16 +348,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\User\Roll-a-ball
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 1.2000122}
-    m_SelectedIDs: ce820000
-    m_LastClickedID: 33486
-    m_ExpandedIDs: 000000007482000076820000
+    m_SelectedIDs: 4c840000
+    m_LastClickedID: 33868
+    m_ExpandedIDs: 00000000f4830000f6830000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -386,7 +386,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007482000076820000
+    m_ExpandedIDs: 00000000f4830000f6830000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -432,7 +432,7 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
-      m_ClientGUIView: {fileID: 10}
+      m_ClientGUIView: {fileID: 2}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -532,9 +532,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: bea30000
+      m_SelectedIDs: ae830000
       m_LastClickedID: 0
-      m_ExpandedIDs: 3c20fefff821feff1c23feff1418ffff382bffff7a2fffffb43bffff163cfffff23fffff6e4afffffc4dffff98eeffffdaf7ffff1efbffff42860000f09200003c9300004c9300002e9a0000009e0000
+      m_ExpandedIDs: bacfffff10d7ffff7cd8ffff90d9ffff6cdaffff5cdbffff9ce2ffffc8e3ffffa4e4fffffae5ffffa2e8ffff14eafffff0eaffffd4ebffffb0ecffff8cedffffd4edffffd4efffffb0f0ffffbcf2ffff10f4ffffecf4ffffc8f5ffffa4f6ffff90f8ffff1efbffff1ebd0000c4bd0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1124,9 +1124,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -13.6, y: 0, z: 2.8000002}
+    m_Target: {x: 0, y: 1, z: -10}
     speed: 2
-    m_Value: {x: -13.6, y: 0, z: 2.8000002}
+    m_Value: {x: 0, y: 1, z: -10}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1176,9 +1176,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_Size:
-    m_Target: 21.190548
+    m_Target: 17.992182
     speed: 2
-    m_Value: 21.190548
+    m_Value: 18.005686
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1196,7 +1196,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 0
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: 0.7071072, y: -0.0008485177, z: 0.00084853615, w: 0.707107}
+  m_LastSceneViewRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_LastSceneViewOrtho: 0
   m_Viewpoint:
     m_SceneView: {fileID: 15}
